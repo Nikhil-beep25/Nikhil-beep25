@@ -1,199 +1,142 @@
-# Premium GitHub Profile README Prompt
+<div align="center">
 
-Act as a world-class GitHub profile designer, UI/UX designer, and senior software engineer.
+# 👋 Hi, I'm Nikhil Bhadauriya
 
-Create a premium, recruiter-friendly **GitHub Profile README.md** for me.
+### 🚀 Python Full Stack Developer • 🤖 Generative AI Enthusiast • 🌐 Open Source Learner
 
-The design should be inspired by my existing GitHub profile README structure while using my personal portfolio as the source of truth for my skills, experience, projects, and tech stack.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Full+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+Something+New" />
 
-## Reference Portfolio
+<img src="https://komarev.com/ghpvc/?username=divyanshbhadauriya1319411&style=for-the-badge&color=blueviolet"/>
 
-Portfolio:
-https://nikhilbhadauriya-portfolio.vercel.app/
-
-Carefully analyze the portfolio and extract:
-
-* Name
-* Professional title
-* About Me
-* Skills
-* Programming languages
-* Frameworks
-* Libraries
-* Databases
-* Cloud platforms
-* DevOps tools
-* Projects
-* Achievements
-* Certifications (if available)
-* Contact information
-* Social links
-
-Do **not** copy the portfolio content verbatim. Rewrite everything professionally and naturally.
-
----
-
-## README Structure
-
-Create the README in the following structure:
-
-# 👋 Hi, I'm [Name]
-
-### 🚀 [Professional Title]
+</div>
 
 ---
 
 # 💫 About Me
 
-Provide the About Me section in a YAML code block exactly like this:
-
 ```yaml
-Name:
+Name: Nikhil Bhadauriya
 
 Education:
+   BCA Graduate
 
 Role:
-
-Experience:
+   Python Full Stack Developer
 
 Interests:
+   - Artificial Intelligence
+   - Generative AI
+   - Web Development
+   - Automation
+   - Open Source
 
 Currently Learning:
+   - FastAPI
+   - Django
+   - Docker
+   - Machine Learning
+   - LLM Applications
 
 Goal:
+   Become an AI Software Engineer
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-Categorize everything into:
-
 ### Languages
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+</p>
 
-### Backend
+### Frameworks & Tools
 
-### Frameworks
-
-### Databases
-
-### Cloud
-
-### DevOps
-
-### Tools
-
-Use **SkillIcons.dev** and **Shields.io** badges.
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,flask,django,git,github,vscode,mysql,docker"/>
+</p>
 
 ---
 
 # 📈 GitHub Analytics
 
-Include:
+<p align="center">
 
-* GitHub Stats
-* GitHub Streak
-* Top Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyanshbhadauriya1319411&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshbhadauriya1319411&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshbhadauriya1319411&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=divyanshbhadauriya1319411&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
 ---
 
 # 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshbhadauriya1319411&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🚀 Current Focus
 
-Create a bullet list describing what I'm currently focusing on based on my portfolio.
+- 🤖 AI & Generative AI
+- 🐍 Python
+- 🌐 Full Stack Development
+- ⚙ REST APIs
+- ☁ Cloud & Docker
+- 📱 Responsive Web Apps
 
 ---
 
 # 📚 Currently Exploring
 
-Generate a realistic list of technologies I am likely learning next.
-
----
-
-# 📂 Featured Projects
-
-Create attractive placeholders using information from my portfolio.
-
-For each project include:
-
-* Project Name
-* Short Description
-* Tech Stack
-* GitHub Link placeholder
-* Live Demo placeholder
+- FastAPI
+- LangChain
+- OpenAI APIs
+- Vector Databases
+- Docker
+- System Design
 
 ---
 
 # 📫 Connect
 
-Include
-
-* GitHub
-* LinkedIn
-* Portfolio
-* Email
+- GitHub: https://github.com/divyanshbhadauriya1319411
 
 ---
 
 # 💭 Developer Quote
 
-Generate an inspiring software engineering quote that matches my personality.
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting!
 
-End with a professional closing message encouraging visitors to explore my repositories.
+**If you like my projects, consider starring them!**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
-## Design Requirements
-
-The README should have:
-
-* Modern layout
-* Premium look
-* Dark theme aesthetic
-* Blue + Purple + Cyan color palette
-* Recruiter-friendly design
-* Professional spacing
-* Consistent typography
-* Animated typing header
-* Profile view counter
-* GitHub stats
-* GitHub streak
-* GitHub trophies
-* GitHub activity graph
-* Top languages
-* Contribution snake animation
-* SkillIcons
-* Shields.io badges
-* Capsule Render animated footer
-
----
-
-## Style Requirements
-
-The writing should be:
-
-* Professional
-* Modern
-* Confident
-* Clean
-* Concise
-* Easy to read
-
-Avoid unnecessary emojis.
-
----
-
-Generate a complete **production-ready README.md** that can be directly copied into a GitHub profile repository without requiring additional editing.
+</div>
