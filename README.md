@@ -71,7 +71,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshbhadauriya1319411&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-beep25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -81,7 +81,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=divyanshbhadauriya1319411&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhil-beep25&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -91,7 +91,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshbhadauriya1319411&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-beep25&theme=tokyo-night"/>
 
 </p>
 
@@ -121,7 +121,7 @@ Goal:
 
 # 📫 Connect
 
-- GitHub: https://github.com/divyanshbhadauriya1319411
+- GitHub: https://github.com/Nikhil-beep25
 
 ---
 
