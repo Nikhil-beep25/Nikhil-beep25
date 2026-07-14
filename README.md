@@ -1,31 +1,199 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there, I'm Nikhil Bhadouriya 👋</h1>
+# Premium GitHub Profile README Prompt
 
-<p align="center">
-  <b>Python Full Stack Developer</b> • <b>MERN Stack Developer</b> • <b>Aspiring AI Engineer</b>
-</p>
+Act as a world-class GitHub profile designer, UI/UX designer, and senior software engineer.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+useful+web+experiences+with+code.;Python+%7C+MERN+Stack+%7C+AI+%26+Machine+Learning.;Learning+today%2C+building+for+tomorrow." alt="Typing introduction" />
-</p>
+Create a premium, recruiter-friendly **GitHub Profile README.md** for me.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-beep25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-</p>
+The design should be inspired by my existing GitHub profile README structure while using my personal portfolio as the source of truth for my skills, experience, projects, and tech stack.
+
+## Reference Portfolio
+
+Portfolio:
+https://nikhilbhadauriya-portfolio.vercel.app/
+
+Carefully analyze the portfolio and extract:
+
+* Name
+* Professional title
+* About Me
+* Skills
+* Programming languages
+* Frameworks
+* Libraries
+* Databases
+* Cloud platforms
+* DevOps tools
+* Projects
+* Achievements
+* Certifications (if available)
+* Contact information
+* Social links
+
+Do **not** copy the portfolio content verbatim. Rewrite everything professionally and naturally.
 
 ---
 
-## ✨ A little about me
+## README Structure
 
-```python
-class NikhilBhadouriya:
-    name = "Nikhil Bhadouriya"
-    roles = [
-        "Python Full Stack Developer",
-        "MERN Stack Developer",
-        "Aspiring AI Engineer"
-    ]
+Create the README in the following structure:
 
-    currently_building = "Scalable and user-friendly web applications"
-    currently_learning = ["Artificial Intelligence", "Machine Learning", "Data Structures"]
-    goal = "Turn ideas and data into intelligent real-world products"
+# 👋 Hi, I'm [Name]
+
+### 🚀 [Professional Title]
+
+---
+
+# 💫 About Me
+
+Provide the About Me section in a YAML code block exactly like this:
+
+```yaml
+Name:
+
+Education:
+
+Role:
+
+Experience:
+
+Interests:
+
+Currently Learning:
+
+Goal:
+```
+
+---
+
+# ⚡ Tech Stack
+
+Categorize everything into:
+
+### Languages
+
+### Frontend
+
+### Backend
+
+### Frameworks
+
+### Databases
+
+### Cloud
+
+### DevOps
+
+### Tools
+
+Use **SkillIcons.dev** and **Shields.io** badges.
+
+---
+
+# 📈 GitHub Analytics
+
+Include:
+
+* GitHub Stats
+* GitHub Streak
+* Top Languages
+
+---
+
+# 🏆 GitHub Trophies
+
+---
+
+# 📊 Contribution Graph
+
+---
+
+# 🚀 Current Focus
+
+Create a bullet list describing what I'm currently focusing on based on my portfolio.
+
+---
+
+# 📚 Currently Exploring
+
+Generate a realistic list of technologies I am likely learning next.
+
+---
+
+# 📂 Featured Projects
+
+Create attractive placeholders using information from my portfolio.
+
+For each project include:
+
+* Project Name
+* Short Description
+* Tech Stack
+* GitHub Link placeholder
+* Live Demo placeholder
+
+---
+
+# 📫 Connect
+
+Include
+
+* GitHub
+* LinkedIn
+* Portfolio
+* Email
+
+---
+
+# 💭 Developer Quote
+
+Generate an inspiring software engineering quote that matches my personality.
+
+---
+
+### ⭐ Thanks for visiting!
+
+End with a professional closing message encouraging visitors to explore my repositories.
+
+---
+
+## Design Requirements
+
+The README should have:
+
+* Modern layout
+* Premium look
+* Dark theme aesthetic
+* Blue + Purple + Cyan color palette
+* Recruiter-friendly design
+* Professional spacing
+* Consistent typography
+* Animated typing header
+* Profile view counter
+* GitHub stats
+* GitHub streak
+* GitHub trophies
+* GitHub activity graph
+* Top languages
+* Contribution snake animation
+* SkillIcons
+* Shields.io badges
+* Capsule Render animated footer
+
+---
+
+## Style Requirements
+
+The writing should be:
+
+* Professional
+* Modern
+* Confident
+* Clean
+* Concise
+* Easy to read
+
+Avoid unnecessary emojis.
+
+---
+
+Generate a complete **production-ready README.md** that can be directly copied into a GitHub profile repository without requiring additional editing.
