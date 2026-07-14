@@ -1,30 +1,31 @@
-<h1 align="center">👋 Hi, I'm Nikhl Bhadauriya</h1>
+<!-- Profile Header -->
+<h1 align="center">Hey there, I'm Nikhil Bhadouriya 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer • 🤖 Generative AI Enthusiast • 🌐 Open Source Learner
+  <b>Python Full Stack Developer</b> • <b>MERN Stack Developer</b> • <b>Aspiring AI Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+web+applications;Learning+AI+and+Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+useful+web+experiences+with+code.;Python+%7C+MERN+Stack+%7C+AI+%26+Machine+Learning.;Learning+today%2C+building+for+tomorrow." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-beep25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## 💫 About Me
+## ✨ A little about me
 
-```yaml
-Name: Nikhil Bhadauriya
-Education: BCA Graduate / Student
-Role: Full Stack Developer
-Interests:
-  - Artificial Intelligence
-  - Generative AI
-  - Web Development
-Currently Learning:
-  - Python
-  - Artificial Intelligence
-  - Machine Learning
+```python
+class NikhilBhadouriya:
+    name = "Nikhil Bhadouriya"
+    roles = [
+        "Python Full Stack Developer",
+        "MERN Stack Developer",
+        "Aspiring AI Engineer"
+    ]
+
+    currently_building = "Scalable and user-friendly web applications"
+    currently_learning = ["Artificial Intelligence", "Machine Learning", "Data Structures"]
+    goal = "Turn ideas and data into intelligent real-world products"
