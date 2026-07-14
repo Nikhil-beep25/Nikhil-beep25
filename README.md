@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Nikhl Bhadauriya</h1>
 
-<!--
-**Nikhil-beep25/Nikhil-beep25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full Stack Developer • 🤖 Generative AI Enthusiast • 🌐 Open Source Learner
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+web+applications;Learning+AI+and+Open+Source" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+## 💫 About Me
+
+```yaml
+Name: Nikhil Bhadauriya
+Education: BCA Graduate / Student
+Role: Full Stack Developer
+Interests:
+  - Artificial Intelligence
+  - Generative AI
+  - Web Development
+Currently Learning:
+  - Python
+  - Artificial Intelligence
+  - Machine Learning
