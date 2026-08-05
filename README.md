@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./nikhil-banner.svg?v=8">
-  <source media="(prefers-color-scheme: light)" srcset="./nikhil-banner-light.svg?v=2">
-  <img src="./nikhil-banner.svg?v=8" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./nikhil-banner.svg?v=11">
+  <source media="(prefers-color-scheme: light)" srcset="./nikhil-banner-light.svg?v=5">
+  <img src="./nikhil-banner.svg?v=11" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -64,11 +64,6 @@ A modern developer portfolio showcasing my skills, projects, experience, and con
 
 <!-- 📈 Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-beep25&bg_color=0c192e&color=38bdf8&line=0284c7&point=7dd3fc&area=true&area_color=0284c7&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%A9%B5" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./nikhil-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
