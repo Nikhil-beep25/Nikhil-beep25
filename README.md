@@ -77,8 +77,8 @@ A modern developer portfolio showcasing my skills, projects, experience, and con
 
 <a href="mailto:nikhilbhadauriya2500@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Nikhil-beep25"><img src="https://img.shields.io/badge/GitHub-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/nikhil_bhadauriya"><img src="https://img.shields.io/badge/Instagram-0ea5e9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@nikhilbhadauriya"><img src="https://img.shields.io/badge/YouTube-0369a1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/itsnikhiltech"><img src="https://img.shields.io/badge/Instagram-0ea5e9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@ItsNikhilTech"><img src="https://img.shields.io/badge/YouTube-0369a1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/><br/>
 
