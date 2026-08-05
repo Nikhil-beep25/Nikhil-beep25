@@ -25,27 +25,9 @@
 </td>
 <td width="64%" valign="top">
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-<!-- Project 1: VidyaSanchar School ERP -->
-<a href="https://github.com/Nikhil-beep25">
-  <img src="./vidyasanchar-banner.svg?v=1" alt="VidyaSanchar – School ERP" width="100%"/>
-</a>
-
-#### 🏫 **VidyaSanchar – School ERP**
-A modern School ERP prototype built to simplify school management. It includes authentication, student management, teacher management, attendance, fees, dashboard, reports, and an admin panel with a responsive UI.
-
-**Tech Stack:**  
-`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
-
-<br/>
-
-<a href="https://github.com/Nikhil-beep25"><img src="https://img.shields.io/badge/Live_Demo-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/Nikhil-beep25"><img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<!-- Project 2: Personal Portfolio -->
+<!-- Personal Portfolio -->
 <a href="https://github.com/Nikhil-beep25/Nikhil-beep25">
   <img src="./portfolio-banner.svg?v=1" alt="Personal Portfolio" width="100%"/>
 </a>
