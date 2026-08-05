@@ -11,29 +11,55 @@
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="36%" align="center" valign="top">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./nikhil-lanyard.svg?v=2" alt="Nikhil Bhadauriya ID badge" width="330"/>
+<img src="./nikhil-lanyard.svg?v=3" alt="Nikhil Bhadauriya ID badge" width="330"/>
+
+<br/><br/>
+
+> 🩵 *"Driven by passion, crafting full-stack solutions with clean code & modern architecture."*
 
 </td>
-<td width="62%" valign="middle">
+<td width="64%" valign="top">
 
-### 🩵 My Anime Creations
+### 🚀 Featured Projects
 
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Nikhil-beep25/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Nikhil-beep25/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Nikhil-beep25/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Nikhil-beep25/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Nikhil-beep25/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+<!-- Project 1: VidyaSanchar School ERP -->
+<a href="https://github.com/Nikhil-beep25">
+  <img src="./vidyasanchar-banner.svg?v=1" alt="VidyaSanchar – School ERP" width="100%"/>
+</a>
+
+#### 🏫 **VidyaSanchar – School ERP**
+A modern School ERP prototype built to simplify school management. It includes authentication, student management, teacher management, attendance, fees, dashboard, reports, and an admin panel with a responsive UI.
+
+**Tech Stack:**  
+`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
 
 <br/>
 
-> 🩵 *"I don't watch code, I want code."*
+<a href="https://github.com/Nikhil-beep25"><img src="https://img.shields.io/badge/Live_Demo-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Nikhil-beep25"><img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<!-- Project 2: Personal Portfolio -->
+<a href="https://github.com/Nikhil-beep25/Nikhil-beep25">
+  <img src="./portfolio-banner.svg?v=1" alt="Personal Portfolio" width="100%"/>
+</a>
+
+#### 💻 **Personal Portfolio**
+A modern developer portfolio showcasing my skills, projects, experience, and contact information with smooth animations, responsive design, and dark/light mode support.
+
+**Tech Stack:**  
+`React` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite`
+
+<br/>
+
+<a href="https://github.com/Nikhil-beep25/Nikhil-beep25"><img src="https://img.shields.io/badge/Live_Demo-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Nikhil-beep25/Nikhil-beep25"><img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
