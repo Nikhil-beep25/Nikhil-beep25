@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./nikhil-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./nikhil-banner-light.svg?v=1">
-  <img src="./nikhil-banner.svg?v=7" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./nikhil-banner.svg?v=8">
+  <source media="(prefers-color-scheme: light)" srcset="./nikhil-banner-light.svg?v=2">
+  <img src="./nikhil-banner.svg?v=8" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
