@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./nikhil-banner.svg?v=12">
-  <source media="(prefers-color-scheme: light)" srcset="./nikhil-banner-light.svg?v=6">
-  <img src="./nikhil-banner.svg?v=12" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
-</picture>
+<img src="./nikhil-banner.svg?v=13" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
 
 </div>
 
@@ -16,7 +12,7 @@
 <td width="36%" align="center" valign="top">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./nikhil-lanyard.svg?v=3" alt="Nikhil Bhadauriya ID badge" width="330"/>
+<img src="./nikhil-lanyard.svg?v=5" alt="Nikhil Bhadauriya ID badge" width="330"/>
 
 <br/><br/>
 
