@@ -124,7 +124,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- Name: Nikhil (3D depth shadow + liquid gradient opening animation) -->
 <g transform="translate(48,196)">
-  <text x="2" y="14" font-size="64" font-weight="800" fill="#0284c7" opacity="0.25" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">Nikhil</text>
+  <text x="2" y="14" font-size="64" font-weight="800" fill="#0284c7" opacity="0.25" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"><tspan class="ltr" style="animation-delay:1.50s">N</tspan><tspan class="ltr" style="animation-delay:1.65s">i</tspan><tspan class="ltr" style="animation-delay:1.80s">k</tspan><tspan class="ltr" style="animation-delay:1.95s">h</tspan><tspan class="ltr" style="animation-delay:2.10s">i</tspan><tspan class="ltr" style="animation-delay:2.25s">l</tspan></text>
   <text x="0" y="12" font-size="64" font-weight="800" fill="url(#nameg)" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"><tspan class="ltr" style="animation-delay:1.50s">N</tspan><tspan class="ltr" style="animation-delay:1.65s">i</tspan><tspan class="ltr" style="animation-delay:1.80s">k</tspan><tspan class="ltr" style="animation-delay:1.95s">h</tspan><tspan class="ltr" style="animation-delay:2.10s">i</tspan><tspan class="ltr" style="animation-delay:2.25s">l</tspan></text>
 </g>
 <g class="hb" style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#0284c7" opacity=".95"/></g>
@@ -133,7 +133,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="ltr" style="animation-delay:2.45s">
   <text x="48" y="241" font-size="18" fill="url(#roleg)" font-weight="bold" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" letter-spacing="0.5">&lt; Full Stack Developer /&gt;</text>
   <line x1="48" y1="248" x2="300" y2="248" stroke="url(#scanEdge)" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
-  <rect x="298" y="226" width="2.5" height="18" fill="#0284c7" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="1s"/></rect>
+  <rect x="298" y="226" width="2.5" height="18" fill="#0284c7" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="2.45s"/></rect>
 </g>
 
 <!-- Quote box -->
