@@ -13,9 +13,14 @@
       <stop offset="100%" stop-color="#08101e"/>
     </linearGradient>
     <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#c084fc"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#7dd3fc"/>
       <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
     <linearGradient id="shineG" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
@@ -23,8 +28,8 @@
       <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="85%" cy="20%" r="60%">
-      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="cardClip">
       <rect x="2" y="2" width="596" height="296" rx="14"/>
@@ -37,7 +42,7 @@
 
   <g clip-path="url(#cardClip)">
     <!-- Decorative Grid / Shapes -->
-    <g opacity="0.06" stroke="#c084fc" stroke-width="1">
+    <g opacity="0.06" stroke="#38bdf8" stroke-width="1">
       <line x1="0" y1="50" x2="600" y2="50"/>
       <line x1="0" y1="100" x2="600" y2="100"/>
       <line x1="0" y1="150" x2="600" y2="150"/>
@@ -51,11 +56,11 @@
     </g>
 
     <!-- Header Tag -->
-    <rect x="36" y="32" width="165" height="24" rx="12" fill="#c084fc" fill-opacity="0.2" stroke="#c084fc" stroke-opacity="0.4" stroke-width="1"/>
-    <text x="118" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#c084fc" letter-spacing="1">DEVELOPER PORTFOLIO</text>
+    <rect x="36" y="32" width="165" height="24" rx="12" fill="#38bdf8" fill-opacity="0.2" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="118" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1">DEVELOPER PORTFOLIO</text>
 
     <!-- Title -->
-    <text x="36" y="92" font-size="28" font-weight="800" fill="#ffffff" letter-spacing="0.5">Personal Portfolio</text>
+    <text x="36" y="92" font-size="28" font-weight="800" fill="url(#titleG)" letter-spacing="0.5">Personal Portfolio</text>
 
     <!-- Description -->
     <text x="36" y="124" font-size="13" font-weight="400" fill="#94a3b8">A modern developer portfolio showcasing skills, projects,</text>
@@ -74,22 +79,22 @@
       <rect x="164" y="0" width="94" height="24" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.3"/>
       <text x="211" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#38bdf8">Tailwind CSS</text>
       <!-- Framer Motion -->
-      <rect x="266" y="0" width="104" height="24" rx="6" fill="#1e293b" stroke="#e879f9" stroke-opacity="0.3"/>
-      <text x="318" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#e879f9">Framer Motion</text>
+      <rect x="266" y="0" width="104" height="24" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.3"/>
+      <text x="318" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#38bdf8">Framer Motion</text>
       <!-- Vite -->
-      <rect x="378" y="0" width="50" height="24" rx="6" fill="#1e293b" stroke="#a855f7" stroke-opacity="0.3"/>
-      <text x="403" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#a855f7">Vite</text>
+      <rect x="378" y="0" width="50" height="24" rx="6" fill="#1e293b" stroke="#7dd3fc" stroke-opacity="0.3"/>
+      <text x="403" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#7dd3fc">Vite</text>
     </g>
 
     <!-- Key Highlights / Badges -->
     <g transform="translate(36, 245)">
-      <circle cx="6" cy="6" r="4" fill="#c084fc" class="pulse"/>
+      <circle cx="6" cy="6" r="4" fill="#38bdf8" class="pulse"/>
       <text x="18" y="10" font-size="12" font-weight="600" fill="#e2e8f0">Smooth Animations</text>
 
-      <circle cx="160" cy="6" r="4" fill="#c084fc" class="pulse"/>
+      <circle cx="160" cy="6" r="4" fill="#38bdf8" class="pulse"/>
       <text x="172" y="10" font-size="12" font-weight="600" fill="#e2e8f0">Responsive Design</text>
 
-      <circle cx="300" cy="6" r="4" fill="#c084fc" class="pulse"/>
+      <circle cx="300" cy="6" r="4" fill="#38bdf8" class="pulse"/>
       <text x="312" y="10" font-size="12" font-weight="600" fill="#e2e8f0">Dark / Light Mode</text>
     </g>
 

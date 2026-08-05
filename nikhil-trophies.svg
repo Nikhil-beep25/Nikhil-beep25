@@ -24,13 +24,13 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     </rect>
   </g>
   <g class="cell" style="animation-delay:0.48s">
-    <rect x="192" y="12" width="168" height="144" rx="14" fill="#0c192e" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
+    <rect x="192" y="12" width="168" height="144" rx="14" fill="#0c192e" stroke="#38bdf8" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="276.0" y="52" text-anchor="middle" font-size="30">🌟</text>
-    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#fde047" style="animation-delay:0.88s">S</text>
+    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#38bdf8" style="animation-delay:0.88s">S</text>
     <text x="276.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Starstruck</text>
     <text x="276.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">GitHub Badge</text>
     <rect x="210" y="124" width="132" height="5" rx="2.5" fill="#162a45"/>
-    <rect x="210" y="124" width="0" height="5" rx="2.5" fill="#fde047">
+    <rect x="210" y="124" width="0" height="5" rx="2.5" fill="#38bdf8">
       <animate attributeName="width" from="0" to="132" dur="1s" begin="0.78s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
     </rect>
   </g>

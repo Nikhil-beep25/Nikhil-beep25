@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./nikhil-banner.svg?v=13" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
+<img src="./nikhil-banner.svg?v=14" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <td width="36%" align="center" valign="top">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./nikhil-lanyard.svg?v=5" alt="Nikhil Bhadauriya ID badge" width="330"/>
+<img src="./nikhil-lanyard.svg?v=6" alt="Nikhil Bhadauriya ID badge" width="330"/>
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 
 <!-- Personal Portfolio -->
 <a href="https://nikhilbhadauriya-portfolio.vercel.app" target="_blank">
-  <img src="./portfolio-banner.svg?v=1" alt="Personal Portfolio" width="100%"/>
+  <img src="./portfolio-banner.svg?v=2" alt="Personal Portfolio" width="100%"/>
 </a>
 
 #### 💻 **Personal Portfolio**
@@ -49,7 +49,7 @@ A modern developer portfolio showcasing my skills, projects, experience, and con
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./nikhil-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./nikhil-stats.svg?v=3" alt="GitHub Stats" height="185"/>
 <img src="./nikhil-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
