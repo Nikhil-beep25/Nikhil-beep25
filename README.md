@@ -52,20 +52,13 @@ A modern developer portfolio showcasing my skills, projects, experience, and con
 <img src="./nikhil-stats.svg?v=3" alt="GitHub Stats" height="185"/>
 <img src="./nikhil-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Nikhil-beep25&theme=radical&hide_border=true&background=0c192e&ring=38bdf8&fire=0ea5e9&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/Nikhil-beep25/Nikhil-beep25/output/streak-stats.svg" alt="GitHub Streak" height="195"/>
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-beep25&bg_color=0c192e&color=38bdf8&line=0284c7&point=7dd3fc&area=true&area_color=0284c7&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%A9%B5" alt="Contribution graph" width="95%"/>
+### 🐍 Contribution Activity & Snake Grid
 
-<br/><br/>
-
-### 🐍 Watch the snake eat my contributions
-
-<img src="https://raw.githubusercontent.com/Nikhil-beep25/Nikhil-beep25/output/github-snake.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Nikhil-beep25/Nikhil-beep25/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 <br/><br/>
 
