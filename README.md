@@ -52,7 +52,9 @@ A modern developer portfolio showcasing my skills, projects, experience, and con
 <img src="./nikhil-stats.svg?v=3" alt="GitHub Stats" height="185"/>
 <img src="./nikhil-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<img src="https://raw.githubusercontent.com/Nikhil-beep25/Nikhil-beep25/output/streak-stats.svg" alt="GitHub Streak" height="195"/>
+<br/><br/>
+
+<img src="./nikhil-streak.svg?v=1" alt="GitHub Streak" height="185"/>
 
 <br/><br/>
 
